@@ -98,16 +98,6 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 <br/>
 
-## `> troféus`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Marlonfrnds&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
 ## `> contribuições`
 
 <div align="center">
