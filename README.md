@@ -64,8 +64,6 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 </div>
 -->
 
-### Concluídos
-
 <div align="center">
   <a href="https://github.com/Marlonfrnds/fotoblog-toriyama">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marlonfrnds&repo=fotoblog-toriyama&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&icon_color=3B86FF&border_color=1E3A5F&show_owner=false&v=2" alt="fotoblog-toriyama" />
