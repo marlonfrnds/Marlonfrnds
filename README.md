@@ -33,27 +33,23 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 ## `> tecnologias`
 
-<div align="center">
-
 ### `> tecnologias`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-091426?style=for-the-badge&logo=python&logoColor=2DD4BF" alt="Python" />
-  <img src="https://img.shields.io/badge/JAVA-091426?style=for-the-badge&logo=openjdk&logoColor=2DD4BF" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-091426?style=for-the-badge&logo=mysql&logoColor=2DD4BF" alt="SQL" />
-  <img src="https://img.shields.io/badge/GIT-091426?style=for-the-badge&logo=git&logoColor=2DD4BF" alt="Git" />
-  <img src="https://img.shields.io/badge/EXCEL-091426?style=for-the-badge&logo=microsoft-excel&logoColor=2DD4BF" alt="Excel" />
-  <img src="https://img.shields.io/badge/POWER%20BI-091426?style=for-the-badge&logo=power-bi&logoColor=2DD4BF" alt="Power BI" />
-</p>
-
-<!-- Quando estiver confortável com elas, descomente:
-<img src="https://img.shields.io/badge/QGIS-0A1628?style=for-the-badge&logo=qgis&logoColor=2FD699" alt="QGIS" />
-<img src="https://img.shields.io/badge/PostGIS-0A1628?style=for-the-badge&logo=postgresql&logoColor=2FD699" alt="PostGIS" />
-<img src="https://img.shields.io/badge/Pandas-0A1628?style=for-the-badge&logo=pandas&logoColor=2FD699" alt="Pandas" />
--->
-
-<br/>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/PYTHON-091426?style=for-the-badge&logo=python&logoColor=2DD4BF" alt="PYTHON" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/JAVA-091426?style=for-the-badge&logo=openjdk&logoColor=2DD4BF" alt="JAVA" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/SQL-091426?style=for-the-badge&logo=mysql&logoColor=2DD4BF" alt="SQL" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/GIT-091426?style=for-the-badge&logo=git&logoColor=2DD4BF" alt="GIT" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/EXCEL-091426?style=for-the-badge&logo=microsoft-excel&logoColor=2DD4BF" alt="EXCEL" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/POWER%20BI-091426?style=for-the-badge&logo=power-bi&logoColor=2DD4BF" alt="POWER BI" /></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
