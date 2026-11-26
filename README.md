@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="./assets/banner-marlon-fernandes.png" width="100%" alt="Marlon Fernandes - Tecnologia e Desenvolvimento">
+  <img src="./assets/banner-marlon-analista-de-dados.png"
+       width="100%"
+       alt="Marlon Fernandes | Analista de Dados e Tecnologia">
 </p>
 
 <p align="center">
@@ -14,19 +16,16 @@
 
 ---
 
-### › sobre_mim
+<h3>› sobre_mim</h3>
 
-Olá! Sou **Marlon Fernandes**, entusiasta de tecnologia e desenvolvimento.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha base em análise de dados, com foco em geoprocessamento.
+Gosto de aprender fazendo: cada projeto aqui no perfil nasceu de uma ideia que eu quis tirar do papel.
 
-Tenho interesse por programação, sistemas, inovação e tudo que envolve o universo da tecnologia.
-
-Estou construindo minha jornada na área, aprendendo novas ferramentas, desenvolvendo projetos e buscando evoluir constantemente.
-
-Meu objetivo é transformar conhecimento em soluções práticas e construir uma carreira sólida em tecnologia.
+No momento não trabalho na área, mas estou sempre buscando criar, praticar e evoluir.
 
 ---
 
-### › tecnologias
+<h3>› tecnologias</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -35,14 +34,17 @@ Meu objetivo é transformar conhecimento em soluções práticas e construir uma
 </p>
 
 <p align="center">
-  📚 Atualmente estudando e expandindo meus conhecimentos.
+  📚 Python em estudo | Aprendizado contínuo
 </p>
 
 ---
 
-### › projetos
+<h3>› projetos</h3>
 
-Aqui você encontrará meus projetos pessoais, estudos, experimentos e aplicações desenvolvidas durante minha jornada na tecnologia.
+<p>
+  Aqui você encontrará meus projetos, estudos e experimentos
+  relacionados à tecnologia, programação e análise de dados.
+</p>
 
 <p align="center">
   <a href="https://github.com/marlonfrnds?tab=repositories">
@@ -52,7 +54,7 @@ Aqui você encontrará meus projetos pessoais, estudos, experimentos e aplicaç�
 
 ---
 
-### › contato
+<h3>› contato</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marlonfrnds/">
@@ -65,5 +67,5 @@ Aqui você encontrará meus projetos pessoais, estudos, experimentos e aplicaç�
 </p>
 
 <p align="center">
-  <sub>Aprender • Desenvolver • Evoluir</sub>
+  <sub>APRENDER • DESENVOLVER • EVOLUIR</sub>
 </p>
