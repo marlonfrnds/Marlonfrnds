@@ -110,8 +110,8 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/marlonfrnds/"><img src="https://img.shields.io/badge/LinkedIn-marlonfrnds-0A1628?style=for-the-badge&logo=linkedin&logoColor=2FD699" alt="LinkedIn" /></a>
-<a href="https://github.com/Marlonfrnds"><img src="https://img.shields.io/badge/GitHub-Marlonfrnds-0A1628?style=for-the-badge&logo=github&logoColor=2FD699" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/marlonfrnds/"><img src="https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=2FD699" alt="LinkedIn" /></a>
+<a href="https://github.com/Marlonfrnds"><img src="https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=2FD699" alt="GitHub" /></a>
 <!-- E-mail (troque o endereço e descomente):
 <a href="mailto:SEU-EMAIL-AQUI"><img src="https://img.shields.io/badge/E--mail-contato-0A1628?style=for-the-badge&logo=gmail&logoColor=2FD699" alt="E-mail" /></a>
 -->
