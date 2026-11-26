@@ -47,8 +47,6 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 <br/>
 
-🐍 Python em estudo &nbsp;|&nbsp; Aprendizado contínuo
-
 </div>
 
 <br/>
