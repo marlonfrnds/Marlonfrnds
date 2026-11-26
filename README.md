@@ -77,8 +77,8 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Marlonfrnds&show_icons=true&hide_border=false&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&icon_color=3B86FF&border_color=1E3A5F&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonfrnds&layout=compact&langs_count=8&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&border_color=1E3A5F" alt="Top Languages" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Marlonfrnds&show_icons=true&hide_border=false&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&icon_color=3B86FF&border_color=1E3A5F&count_private=true" alt="GitHub Stats" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonfrnds&layout=compact&langs_count=8&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&border_color=1E3A5F" alt="Top Languages" />
 
 <br/>
 
