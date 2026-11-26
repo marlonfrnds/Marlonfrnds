@@ -35,10 +35,17 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=2FD699" alt="Python" />
-<img src="https://img.shields.io/badge/Java-0A1628?style=for-the-badge&logo=openjdk&logoColor=2FD699" alt="Java" />
-<img src="https://img.shields.io/badge/SQL-0A1628?style=for-the-badge&logo=mysql&logoColor=2FD699" alt="SQL" />
-<img src="https://img.shields.io/badge/Git-0A1628?style=for-the-badge&logo=git&logoColor=2FD699" alt="Git" />
+### `> tecnologias`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-091426?style=for-the-badge&logo=python&logoColor=2DD4BF" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVA-091426?style=for-the-badge&logo=openjdk&logoColor=2DD4BF" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-091426?style=for-the-badge&logo=mysql&logoColor=2DD4BF" alt="SQL" />
+  <img src="https://img.shields.io/badge/GIT-091426?style=for-the-badge&logo=git&logoColor=2DD4BF" alt="Git" />
+  <img src="https://img.shields.io/badge/EXCEL-091426?style=for-the-badge&logo=microsoft-excel&logoColor=2DD4BF" alt="Excel" />
+  <img src="https://img.shields.io/badge/POWER%20BI-091426?style=for-the-badge&logo=power-bi&logoColor=2DD4BF" alt="Power BI" />
+</p>
+
 <!-- Quando estiver confortável com elas, descomente:
 <img src="https://img.shields.io/badge/QGIS-0A1628?style=for-the-badge&logo=qgis&logoColor=2FD699" alt="QGIS" />
 <img src="https://img.shields.io/badge/PostGIS-0A1628?style=for-the-badge&logo=postgresql&logoColor=2FD699" alt="PostGIS" />
