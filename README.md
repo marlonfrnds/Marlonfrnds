@@ -91,6 +91,8 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 <br/>
 
+</div>
+
 ## `> contribuições`
 
 <div align="center">
