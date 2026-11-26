@@ -33,8 +33,6 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 ## `> tecnologias`
 
-### `> tecnologias`
-
 <div align="center">
   <table>
     <tr>
