@@ -77,20 +77,17 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 <div align="center">
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Marlonfrnds&show_icons=true&hide_border=false&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&icon_color=3B86FF&border_color=1E3A5F&count_private=true" alt="GitHub Stats" />
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonfrnds&layout=compact&langs_count=8&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&border_color=1E3A5F" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Marlonfrnds&show_icons=true&hide_border=false&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&icon_color=3B86FF&border_color=1E3A5F&count_private=true&card_width=495" alt="GitHub Stats" />
 
-<br/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonfrnds&layout=compact&langs_count=8&theme=transparent&bg_color=0A1628&title_color=2FD699&text_color=C9D6E8&border_color=1E3A5F&card_width=495" alt="Top Languages" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Marlonfrnds&theme=transparent&background=0A1628&ring=2FD699&fire=3B86FF&currStreakNum=FFFFFF&currStreakLabel=2FD699&sideNums=FFFFFF&sideLabels=9FB4CE&dates=9FB4CE&stroke=1E3A5F&border=1E3A5F" alt="GitHub Streak" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marlonfrnds&bg_color=0A1628&color=9FB4CE&line=2FD699&point=FFFFFF&area=true&area_color=2FD699&hide_border=true&title_color=2FD699" alt="Activity Graph" />
-
-</div>
-
-<br/>
 
 ## `> contribuições`
 
