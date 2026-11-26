@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/banner-marlon-analista-de-dados.png"
+  <img src="banner-marlon-analista-de-dados.png"
        width="100%"
        alt="Marlon Fernandes | Analista de Dados e Tecnologia">
 </p>
