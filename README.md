@@ -38,11 +38,7 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 <img src="https://img.shields.io/badge/Python-0A1628?style=for-the-badge&logo=python&logoColor=2FD699" alt="Python" />
 <img src="https://img.shields.io/badge/Java-0A1628?style=for-the-badge&logo=openjdk&logoColor=2FD699" alt="Java" />
 <img src="https://img.shields.io/badge/SQL-0A1628?style=for-the-badge&logo=mysql&logoColor=2FD699" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML-0A1628?style=for-the-badge&logo=html5&logoColor=2FD699" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-0A1628?style=for-the-badge&logo=css3&logoColor=2FD699" alt="CSS" />
-<br/>
 <img src="https://img.shields.io/badge/Git-0A1628?style=for-the-badge&logo=git&logoColor=2FD699" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=2FD699" alt="GitHub" />
 <!-- Quando estiver confortável com elas, descomente:
 <img src="https://img.shields.io/badge/QGIS-0A1628?style=for-the-badge&logo=qgis&logoColor=2FD699" alt="QGIS" />
 <img src="https://img.shields.io/badge/PostGIS-0A1628?style=for-the-badge&logo=postgresql&logoColor=2FD699" alt="PostGIS" />
