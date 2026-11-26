@@ -1,7 +1,7 @@
 <!-- Cabeçalho -->
 <div align="center">
 
-<img src="./assets/banner-marlon-fernandes.png" width="100%" alt="Banner Marlon Fernandes" />
+<img src="./assets/banner-marlon-analista-de-dados.png" width="100%" alt="Banner Marlon Fernandes" />
 
 <a href="https://github.com/Marlonfrnds">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=1100&color=2FD699&center=true&vCenter=true&width=640&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+an%C3%A1lise+de+dados+e+geoprocessamento;Aprendendo+fazendo%2C+um+projeto+por+vez" alt="Typing animation" />
