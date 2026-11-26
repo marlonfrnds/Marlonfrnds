@@ -87,7 +87,9 @@ No momento não trabalho na área, mas estou sempre buscando criar, praticar e e
 
 <img src="https://streak-stats.demolab.com?user=Marlonfrnds&theme=transparent&background=0A1628&ring=2FD699&fire=3B86FF&currStreakNum=FFFFFF&currStreakLabel=2FD699&sideNums=FFFFFF&sideLabels=9FB4CE&dates=9FB4CE&stroke=1E3A5F&border=1E3A5F" alt="GitHub Streak" />
 
-<br/><br/>
+<br/>
+
+<br/>
 
 ## `> contribuições`
 
